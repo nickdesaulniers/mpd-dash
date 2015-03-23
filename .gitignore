@@ -1,0 +1,5 @@
+# Keep these large binaries out of version control, instead provide script to
+# fetch.
+*.webm
+*.mp4
+
